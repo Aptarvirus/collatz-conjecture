@@ -29,3 +29,4 @@
 ### 1. Run the Script in ur terminal or in th e IDE
 ### 2. Enter any posittive integer other then 1
 ### python collatz.py (Run in your cmd)
+Learn more about Collatz cojecture https://en.wikipedia.org/wiki/Collatz_conjecture
