@@ -26,6 +26,7 @@
 ### Checks for numbers less than or equal to $0$ or the number $1$ to ensure valid operation.
 
 # Demo 
+### 0. Clone the repo...
 ### 1. Run the Script in ur terminal or in th e IDE
 ### 2. Enter any posittive integer other then 1
 ### python collatz.py (Run in your cmd)
